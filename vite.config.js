@@ -8,4 +8,8 @@ export default defineConfig({
     open: true
   },
   base: '/Ice-Cream-Shop/',
+<<<<<<< HEAD
 });
+=======
+});
+>>>>>>> origin/main
