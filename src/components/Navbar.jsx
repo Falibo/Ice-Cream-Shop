@@ -50,7 +50,7 @@ function Navbar() {
       <Flex h={16} alignItems="center" justifyContent="space-between" mx="auto" px={4}>
         <Flex alignItems="center">
           <Image 
-            src="/img/logo.png" 
+            src="/Ice-Cream-Shop/img/logo.png" 
             alt="The Creamery Co. Logo" 
             boxSize="50px"
             mr={2}

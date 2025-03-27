@@ -1,8 +1,7 @@
 {
   "name": "scoops-ice-cream",
   "homepage": "https://falibo.github.io/Ice-Cream-Shop",
-  "author": "Achraf EL ISMAILI",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
@@ -10,7 +9,7 @@
     "build": "vite build",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "@chakra-ui/react": "^2.10.7",

@@ -142,7 +142,7 @@ function Services() {
             width="100%"
           >
             <Image
-              src="/img/icecream-party.jpg"
+              src="/Ice-Cream-Shop/img/icecream-party.jpg"
               alt="Ice Cream"
               objectFit="cover"
               filter={colorMode === 'dark' ? 'brightness(0.7)' : 'none'}

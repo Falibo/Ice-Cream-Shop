@@ -69,32 +69,32 @@ const MenuCard = ({ title, image, description }) => {
 const menuItems = [
   {
     title: "Chocolate Chip",
-    image: "/img/chocolate-chip.jpg",
+    image: "/Ice-Cream-Shop/img/chocolate-chip.jpg",
     description: "Rich, creamy vanilla ice cream loaded with semi-sweet chocolate chips, a classic combination that's hard to resist."
   },
   {
     title: "Nutella Ice Cream",
-    image: "/img/nutella-ice-cream.jpg",
+    image: "/Ice-Cream-Shop/img/nutella-ice-cream.jpg",
     description: "For Nutella lovers, we've crafted the ultimate treat: a decadent ice cream infused with the unmistakable flavor of this chocolate-hazelnut classic."
   },
   {
     title: "Chocolate",
-    image: "/img/chocolate.jpg",
+    image: "/Ice-Cream-Shop/img/chocolate.jpg",
     description: "Indulge in our rich, velvety chocolate ice cream, made with the finest cocoa and a touch of sweetness."
   },
   {
     title: "Candies",
-    image: "/img/candy.jpg",
+    image: "/Ice-Cream-Shop/img/candy.jpg",
     description: "Treat yourself to a colorful mix of candies swirled into a sweet and creamy base."
   },
   {
     title: "Maple Walnut Ice Cream",
-    image: "/img/maple-walnut.jpg",
+    image: "/Ice-Cream-Shop/img/maple-walnut.jpg",
     description: "Experience the perfect balance of rich, velvety maple and crunchy, toasted walnuts in every creamy bite."
   },
   {
     title: "Milkshake",
-    image: "/img/milkshake.jpg",
+    image: "/Ice-Cream-Shop/img/milkshake.jpg",
     description: "Treat yourself to a decadent blend of your favorite ice cream flavors, mixed to perfection with milk and topped with whipped cream and a sprinkle of fun."
   }
 ];

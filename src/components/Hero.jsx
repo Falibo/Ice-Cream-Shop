@@ -25,8 +25,8 @@ function Hero() {
     <Box
       id="home"
       bgImage={colorMode === 'dark' 
-        ? 'linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url("/img/hero.png")'
-        : 'linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("/img/hero.png")'
+        ? 'linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url("/Ice-Cream-Shop/img/hero.png")'
+        : 'linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("/Ice-Cream-Shop/img/hero.png")'
       }      
       bgSize="cover"
       bgPosition="center"
